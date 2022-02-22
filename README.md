@@ -13,6 +13,7 @@
 
 ### Technologies
 ![Android](https://img.shields.io/badge/-Android-4B4F59?style=plastic&logo=Android)
+![Realm](https://img.shields.io/badge/-Realm-4B4F59?style=plastic&logo=Realm)
 ![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=plastic&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-4B4F59?style=plastic&logo=Git)
 
