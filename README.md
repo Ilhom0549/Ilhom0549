@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://gpvc.arturio.dev/Ilhom0549)
 
-![](https://github-profile-trophy.vercel.app/?username=Ilhom0549)
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilhom0549&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
