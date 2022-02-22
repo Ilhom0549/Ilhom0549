@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhom0549&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
 
