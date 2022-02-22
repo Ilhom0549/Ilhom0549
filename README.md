@@ -5,11 +5,12 @@
 ### Languages and Tools:
 <b></b>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin)
-![Android](https://img.shields.io/badge/-Android-4B4F59?style=plastic&logo=Android)
-![Git](https://img.shields.io/badge/-Git-4B4F59?style=plastic&logo=Git)
-![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=plastic&logo=Firebase)
 <!-- ![Java](https://img.shields.io/badge/-Java-4B4F59?style=for-the-badge&logo=Java) -->
 
+### Technologies
+![Android](https://img.shields.io/badge/-Android-4B4F59?style=plastic&logo=Android)
+![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=plastic&logo=Firebase)
+![Git](https://img.shields.io/badge/-Git-4B4F59?style=plastic&logo=Git)
 <!--
 **Ilhom0549/Ilhom0549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
