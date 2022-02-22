@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Ilhom0549)
 
-### Hi there 👋 I'm Ilkhomkhuja
+### Hi there 👋 I'm ilkhomkhuja
 - I live Tashkent, Uzbekistan.
 - I'm Android Developer
 
