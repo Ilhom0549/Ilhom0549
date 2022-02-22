@@ -4,9 +4,9 @@
 
 ### Languages and Tools:
 <b></b>
-![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin&?logoWidth=500)
-![Git](https://img.shields.io/badge/-Git-4B4F59?style=for-the-badge&logo=Git)
-![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=for-the-badge&logo=Firebase)
+![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin)
+![Git](https://img.shields.io/badge/-Git-4B4F59?style=plastic&logo=Git)
+![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=plastic&logo=Firebase)
 <!--
 **Ilhom0549/Ilhom0549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
