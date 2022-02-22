@@ -27,18 +27,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-## My Github Stats
+### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilhom0549&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+### Github Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ### Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p> -->
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhom0549&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!-- ![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif) -->
