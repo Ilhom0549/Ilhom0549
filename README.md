@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhom0549&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
+<!-- ![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif) -->
 
