@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 <b></b>
-![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin?logoWidth=40)
 ![Git](https://img.shields.io/badge/-Git-4B4F59?style=for-the-badge&logo=Git)
 ![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=for-the-badge&logo=Firebase)
 <!--
