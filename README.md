@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/Ilhom0549)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif) -->
 
