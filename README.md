@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ilkhomkhuja
-- UZ I live Tashkent, Uzbekistan.
+- RU I live Tashkent, Uzbekistan.
 - I'm Android Developer
 
 
