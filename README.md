@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilhom0549&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itbeard&hide=html&layout=compact)](https://github.com/Ilhom0549)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhom0549&hide=html&layout=compact)](https://github.com/Ilhom0549)
 <br/><br/>
 
 ### Languages and Tools
