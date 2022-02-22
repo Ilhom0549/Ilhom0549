@@ -7,7 +7,7 @@
 ### Languages and Tools:
 <b></b>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=plastic&logo=Kotlin)
-![C++](https://img.shields.io/badge/-C++-4B4F59?style=plastic&logo=C++)
+![C#](https://img.shields.io/badge/-C#-4B4F59?style=plastic&logo=C#)
 ![Git](https://img.shields.io/badge/-Git-4B4F59?style=plastic&logo=Git)
 ![Firebase](https://img.shields.io/badge/-Firebase-4B4F59?style=plastic&logo=Firebase)
 <!--
