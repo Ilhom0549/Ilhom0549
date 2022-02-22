@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/Ilhom0549)
+
 ### Hi there 👋 I'm Ilkhomkhuja
 -  I live Tashkent, Uzbekistan.
 - I'm Android Developer
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/Ilhom0549)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ilhom0549&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
