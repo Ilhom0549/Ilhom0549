@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ilkhomkhuja
+### Hi there 👋💻 I'm ilkhomkhuja
 - I live Tashkent, Uzbekistan.
 - I'm Android Developer
 
