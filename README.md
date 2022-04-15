@@ -3,7 +3,7 @@
 - I'm Android Developer
 
 
-[![Telegram Badge](https://img.shields.io/badge/-Ilhom-black?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Ilhom0549)](https://t.me/Ilhom0549)
+[![Telegram Badge](https://img.shields.io/badge/-Ilhom0549-4B4F59?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Ilhom0549)](https://t.me/Ilhom0549)
 
 
 ### Languages
