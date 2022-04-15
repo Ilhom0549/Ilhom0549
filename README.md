@@ -2,6 +2,8 @@
 - I live Tashkent, Uzbekistan.
 - I'm Android Developer
 
+[
+[![Telegram Badge](https://img.shields.io/badge/-Ilhom-black?style=flat&logo=Telegram&logoColor=white&link=https://medium.com/@drjacky)](https://medium.com/@drjacky)
 
 
 ### Languages
