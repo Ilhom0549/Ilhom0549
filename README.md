@@ -9,6 +9,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ilhom0549/Ilhom0549)](https://github.com/Ilhom0549)
 [![Repo Badge](https://badges.pufler.dev/repos/Ilhom0549)](https://github.com/Ilhom0549)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ilhom0549)](https://github.com/Ilhom0549)
+
 
 
 ### Languages
