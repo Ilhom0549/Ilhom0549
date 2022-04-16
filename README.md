@@ -7,7 +7,7 @@
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ilhom0549/Ilhom0549)](https://github.com/Ilhom0549)
+[![Visits Badge](https://badges.pufler.dev/visits/Ilhom0549)](https://github.com/Ilhom0549)
 [![Repo Badge](https://badges.pufler.dev/repos/Ilhom0549)](https://github.com/Ilhom0549)
 
 
