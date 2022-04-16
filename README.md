@@ -3,7 +3,7 @@
 - I'm Android Developer
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ilhom0549/Ilhom0549)](https://github.com/Ilhom0549)
-[![Repos Badge](https://badges.pufler.dev/repos/Ilhom0549)](https://github.com/Ilhom0549)
+[![Repositories Badge](https://badges.pufler.dev/repos/Ilhom0549)](https://github.com/Ilhom0549)
 [![Telegram Badge](https://img.shields.io/badge/-Ilhom0549-4B4F59?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Ilhom0549)](https://t.me/Ilhom0549)
 
 
