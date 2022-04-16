@@ -10,7 +10,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Ilhom0549/Ilhom0549)](https://github.com/Ilhom0549)
 [![Repo Badge](https://badges.pufler.dev/repos/Ilhom0549)](https://github.com/Ilhom0549)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/Ilhom0549)](https://github.com/Ilhom0549)
-[![Updated Badge](https://badges.pufler.dev/updated/Ilhom0549/Unit-Testing)](https://github.com/Ilhom0549)
+<!-- [![Updated Badge](https://badges.pufler.dev/updated/Ilhom0549/Unit-Testing)](https://github.com/Ilhom0549) -->
 
 
 
